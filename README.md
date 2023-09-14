@@ -1,5 +1,5 @@
 # DataTabel-TestVenturo
-# Sales pivot table with PHP Native
+# DataTabel table with PHP Native
 
 # Tampilan Data Pilih Tahun 
 ![image](https://github.com/ValenNz/DataTabel-TestVenturo/assets/92833376/94cca138-a49d-4b40-932e-6722fa32a664)
